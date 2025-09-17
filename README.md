@@ -1,3 +1,3 @@
 # Sem-1_Litvinov_Git
 Some changes has been added :3
-Les go
+That's really cool
