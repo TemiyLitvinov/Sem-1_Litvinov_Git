@@ -1,2 +1,3 @@
+name = 'nice'
 for i in range(0, 2):
-    print('This is my second nice file')
+    print(f'This is my second {name} file')
